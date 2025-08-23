@@ -2,8 +2,9 @@ body {
   background-color: #1f1f1f;
   width: 100dvw;
   height: 100dvh;
+  font-size: 16px;
 }
 
-p {
-  color: #2ce40b;
+h1 {
+  font-size: 3rem;
 }
